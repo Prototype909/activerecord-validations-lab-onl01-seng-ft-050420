@@ -17,5 +17,5 @@ class Post < ActiveRecord::Base
 
     @@phrases = [/won't believe/, /secret/, /top \d/, /guess/]
 
-endclass Post < ActiveRecord::Base
+
 end
